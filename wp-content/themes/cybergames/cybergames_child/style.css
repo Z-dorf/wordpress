@@ -1,0 +1,12 @@
+/*
+ Theme Name:   CyberGames child
+ Theme URI:    http://bestweblayout.com/products/cybergames/
+ Description:  Test de child theme
+ Author:       Zdorf
+ Author URI:   https://wpmarmite.com
+ Template:     cybergames
+ Version:      1.0.0
+*/
+p{
+    color: red;
+}
